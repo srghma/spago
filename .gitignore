@@ -3,3 +3,4 @@ test/spago-test
 *.cabal
 *~
 **/__pycache__
+result
